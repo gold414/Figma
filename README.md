@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-
+```
 PAGE---1
 
 index.html
@@ -677,6 +677,8 @@ button:focus-visible {
 a {
   text-decoration: none;
 }
+
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (129).png>)
